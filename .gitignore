@@ -37,3 +37,4 @@ out/
 .vscode/
 /src/main/resources/properties/env.properties
 /src/main/kotlin/swmaestro/spaceodyssey/config/PropertyConfig.java
+/src/main/kotlin/swmaestro/spaceodyssey/config/PropertyConfig.kt
